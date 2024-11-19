@@ -34,7 +34,7 @@ def main():
         print("Unable to load names. Please check the file and try again.")
         return
 
-    print("Congratulations!!!\nWe will help you choose a name for your baby. We have 258,000 options!")
+    print("Congratulations!!! ❤️ \nWe will help you choose a name for your baby. We have 258,000 options!")
     congratulations = input('\nDo you already know if it’s a boy or a girl? Please type "Yes" or "No" and press Enter: ').strip().lower()
 
     if congratulations == "yes":
